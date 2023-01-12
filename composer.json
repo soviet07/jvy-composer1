@@ -1,11 +1,11 @@
 {
-    "name": "monica/jvy-composer",
+    "name": "moni/jvy-composer",
     "description": "My first packagist package",
     "type": "package",
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Monica\\JvyComposer\\": "src/"
+            "Moni\\JvyComposer\\": "src/"
         }
     },
     "authors": [
